@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-17T03:44:46.149Z",
+  "updated": "2026-05-17T18:26:29.276Z",
   "tabs": [
     {
       "id": "resources",
@@ -36,7 +36,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "#",
+      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/releases/download/INTG26A-260206/INTG26A-260206.Zip",
       "featured": true
     },
     {
@@ -69,7 +69,7 @@
         "type": "doctype",
         "text": "QQ"
       },
-      "url": "#",
+      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/refs/heads/main/Order%20Forms/IC_QuickQuote_V2026_02_26.xlsm",
       "featured": false
     },
     {
@@ -278,7 +278,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/blob/3ddfedededd4b7d0022e0a0373a3434338283b16/IC_Resources/IC_Matching_Paper_For_Pro_Box.pdf",
+      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/blob/main/IC_Resources/IC_Matching_Paper_For_Pro_Box.pdf",
       "featured": false
     }
   ]
