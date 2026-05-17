@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-16T19:05:01.211Z",
+  "updated": "2026-05-17T03:42:18.516Z",
   "tabs": [
     {
       "id": "resources",
@@ -58,11 +58,11 @@
         "type": "doctype",
         "text": "IC"
       },
-      "url": "#",
+      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/refs/heads/main/IC_Resources/Integrity_Cabinets_Price_Book_2025.zip",
       "featured": true
     },
     {
-      "tab": "resources",
+      "tab": "orders",
       "title": "IC Quick Quote 2026",
       "meta": "Effective Feb 26, 2026",
       "badge": {
@@ -73,7 +73,7 @@
       "featured": false
     },
     {
-      "tab": "resources",
+      "tab": "orders",
       "title": "IC Quick Quote Troubleshooting",
       "meta": "Guide",
       "badge": {
@@ -95,18 +95,18 @@
       "featured": false
     },
     {
-      "tab": "orders",
+      "tab": "resources",
       "title": "IC Door & Drawer Front Size Lookup",
       "meta": "Reference tool",
       "badge": {
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/refs/heads/main/IC_Resources/Door_Drawer_Front_Lookup_10-28.xlsx",
       "featured": false
     },
     {
-      "tab": "orders",
+      "tab": "resources",
       "title": "Stanisci Program Information",
       "meta": "Speciality Hood Program",
       "badge": {
@@ -245,7 +245,7 @@
         "type": "monogram",
         "text": "YT"
       },
-      "url": "#",
+      "url": "https://www.youtube.com/watch?v=fPPRyXQxwgw",
       "featured": false
     },
     {
@@ -268,6 +268,17 @@
         "text": "PK"
       },
       "url": "https://www.prokitchensoftware.com/manufacturer-catalog-downloads/4/",
+      "featured": false
+    },
+    {
+      "tab": "resources",
+      "title": "IC Matching Paper For Pro Box",
+      "meta": "Reference",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/blob/3ddfedededd4b7d0022e0a0373a3434338283b16/IC_Resources/IC_Matching_Paper_For_Pro_Box.pdf",
       "featured": false
     }
   ]
