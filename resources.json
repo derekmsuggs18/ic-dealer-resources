@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T18:43:37.486Z",
+  "updated": "2026-05-18T18:49:33.237Z",
   "tabs": [
     {
       "id": "resources",
@@ -310,7 +310,7 @@
     {
       "tab": "Salesaid",
       "title": "IC Post & Legs",
-      "meta": "Brochure",
+      "meta": "Resource",
       "badge": {
         "type": "doctype",
         "text": "PDF"
