@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-20T19:47:05.002Z",
+  "updated": "2026-05-20T19:53:40.176Z",
   "tabs": [
     {
       "id": "resources",
@@ -349,6 +349,17 @@
         "text": "IC"
       },
       "url": "https://drive.google.com/uc?export=download&id=1UZsIct0_3qGdl2r3QFLxLrLJkF0s9wOI",
+      "featured": false
+    },
+    {
+      "tab": "catalogs",
+      "title": "2020 Catalog Release Notes - May 2026",
+      "meta": "Release Notes",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "https://drive.google.com/uc?export=download&id=1ewpZTQGf1G-t3zaEDviQn9c_rzEC06_t",
       "featured": false
     }
   ]
