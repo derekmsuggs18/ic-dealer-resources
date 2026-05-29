@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-20T19:54:54.899Z",
+  "updated": "2026-05-29T19:10:33.105Z",
   "tabs": [
     {
       "id": "resources",
@@ -9,6 +9,10 @@
     {
       "id": "catalogs",
       "label": "Catalogs & Pricing"
+    },
+    {
+      "id": "hoods",
+      "label": "Stanisci"
     },
     {
       "id": "Salesaid",
@@ -88,9 +92,20 @@
       "featured": false
     },
     {
-      "tab": "resources",
+      "tab": "hoods",
+      "title": "Stanisci - Integrity Cabinets - 2020 Catalog",
+      "meta": "INTST26-260523",
+      "badge": {
+        "type": "monogram",
+        "text": "ST"
+      },
+      "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTST26-260523/INTST26-260523.Zip",
+      "featured": true
+    },
+    {
+      "tab": "hoods",
       "title": "Stanisci Information Package",
-      "meta": "Specialty line",
+      "meta": "Hood Program",
       "badge": {
         "type": "monogram",
         "text": "ST"
