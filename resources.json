@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-29T19:10:33.105Z",
+  "updated": "2026-05-29T19:53:08.598Z",
   "tabs": [
     {
       "id": "resources",
@@ -45,7 +45,8 @@
         "text": "IC"
       },
       "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTG264A-260520/INTG264A-260520.Zip",
-      "featured": true
+      "featured": true,
+      "new": "2026-05-29"
     },
     {
       "tab": "orders",
@@ -100,7 +101,8 @@
         "text": "ST"
       },
       "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTST26-260523/INTST26-260523.Zip",
-      "featured": true
+      "featured": true,
+      "new": "2026-05-29"
     },
     {
       "tab": "hoods",
@@ -111,7 +113,8 @@
         "text": "ST"
       },
       "url": "https://drive.google.com/uc?export=download&id=1S_IRc7SSaO1sTSPyXqDA3xtQSMLqdey0",
-      "featured": false
+      "featured": false,
+      "new": "2026-05-29"
     },
     {
       "tab": "resources",
@@ -375,7 +378,8 @@
         "text": "IC"
       },
       "url": "https://drive.google.com/uc?export=download&id=1ewpZTQGf1G-t3zaEDviQn9c_rzEC06_t",
-      "featured": false
+      "featured": false,
+      "new": "2026-05-29"
     }
   ]
 }
